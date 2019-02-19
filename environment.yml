@@ -1,0 +1,8 @@
+name: onkyo100pon
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pip:
+    - sounddevice
+    - samplerate
