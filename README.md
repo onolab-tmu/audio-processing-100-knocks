@@ -33,7 +33,7 @@ Python のインストールは[Anaconda](https://www.anaconda.com/distribution/
 3. 逆行列・線形方程式を解く
 4. 線形代数の基本定理（零空間/Nullspace・像空間/Range space）
 5. 射影（プロジェクション）
-6.
+6. 最小二乗問題
 7.
 8.
 9.
